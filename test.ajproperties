@@ -1,0 +1,5 @@
+src.includes = src/main/aspect,\
+               src/test/java
+#src.excludes = src/main/aspect/com/u14n/aspects/Verboseness.aj,\
+#               src/main/aspect/com/u14n/aspects/bean/JavaBeans.aj,\
+#               src/main/aspect/com/u14n/aspects/bean/PropertyChanges.aj,\
