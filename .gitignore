@@ -17,3 +17,6 @@ hs_err_pid*
 **/.svn/
 */target/**
 */ajdocworkingdir/**
+/target
+/ajcore.20151030.190654.897.txt
+/ajcore.20151030.190713.172.txt
